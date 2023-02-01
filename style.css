@@ -6,7 +6,7 @@
 header {
   background-color: #333;
   padding-bottom: 25px;
-  padding-top: 15px;
+  padding-top: 16px;
 }
 .logo,
 .menu {
@@ -14,17 +14,19 @@ header {
   vertical-align: middle;
 }
 .menu-list-link {
-  padding: 20px;
+  padding: 20px 28px;
   margin-right: -4px;
   font-size: 18px;
 }
 .menu-list-items {
   display: inline;
 }
-.menu-list-items:hover,
-.active {
-  padding-top: 28px;
-  padding-bottom: 23px;
+
+.active,
+.menu-list-items:hover {
+  padding-top: 27px;
+  padding-bottom: 25px;
+  margin-bottom: 10px;
   background-color: #444;
 }
 .menu-list-link {
