@@ -135,16 +135,19 @@ footer {
   color: white;
 }
 .contact {
-  width: 500px;
+  width: 550px;
   margin: auto;
   padding-top: 200px;
+  font-weight: bold;
   display: block;
+  font-size: 20px;
+  margin-bottom: 200px;
 }
 .inpute,
 textarea,
 .inpute input {
   margin-top: 20px;
-  width: 500px;
+  width: 550px;
 }
 hr {
   margin-top: 15px;
@@ -157,6 +160,7 @@ hr {
   padding: 12px 20px;
   border-radius: 20px;
   border: none;
+  font-weight: bolder;
   background-color: black;
   color: white;
 }
