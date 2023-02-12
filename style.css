@@ -136,33 +136,3 @@ footer {
   text-align: center;
   color: white;
 }
-.contact {
-  width: 550px;
-  margin: auto;
-  padding-top: 200px;
-  font-weight: bold;
-  display: block;
-  font-size: 20px;
-  margin-bottom: 200px;
-}
-.inpute,
-textarea,
-.inpute input {
-  margin-top: 20px;
-  width: 550px;
-}
-hr {
-  margin-top: 15px;
-}
-.inpute input {
-  padding: 10px 0;
-}
-.end-binput {
-  margin-top: 10px;
-  padding: 12px 20px;
-  border-radius: 20px;
-  border: none;
-  font-weight: bolder;
-  background-color: black;
-  color: white;
-}
